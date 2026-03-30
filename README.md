@@ -1,5 +1,11 @@
 # Payment Gateway
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-compose-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white)
+
 **Repository:** https://github.com/Konstanti2434324324/payment_gateway.git
 
 FastAPI-сервис платёжного шлюза с интеграцией мок-провайдера. Поддерживает аутентификацию мерчантов, управление балансом, создание платежей с проверкой подписи HMAC-SHA256 и обработку вебхуков.
